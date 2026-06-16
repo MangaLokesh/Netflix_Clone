@@ -31,12 +31,8 @@ Through this project, I improved my understanding of:
 
 ## Live Demo
 
-Add your deployed project link here.
-
-Example:
-
 ```bash
-https://your-project-link.onrender.com
+https://netflix-clone3-cfcu.onrender.com/
 ```
 
 ## Future Improvements
