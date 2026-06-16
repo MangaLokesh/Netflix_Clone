@@ -18,17 +18,6 @@ A responsive Netflix-inspired login page built using HTML and CSS. This project 
 * Flexbox
 * Media Queries
 
-## Project Structure
-
-```bash
-Netflix_Clone/
-│
-├── index.html
-├── netflix.css
-├── images/
-└── assets/
-```
-
 ## Learning Outcomes
 
 Through this project, I improved my understanding of:
@@ -49,10 +38,6 @@ Example:
 ```bash
 https://your-project-link.onrender.com
 ```
-
-## Screenshots
-
-Add screenshots of your project here for better presentation.
 
 ## Future Improvements
 
